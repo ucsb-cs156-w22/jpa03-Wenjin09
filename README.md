@@ -5,7 +5,7 @@
 Storybook is here:
 
 - Production: https://ucsb-cs156-w22.github.io/jpa03-only-for-testing-wl-docs/storybook
-- QA: https://ucsb-cs156-w22.github.io/pa03-only-for-testing-wl-qa/storybook
+- QA: https://ucsb-cs156-w22.github.io/jpa03-only-for-testing-wl-docs-qa/storybook
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
