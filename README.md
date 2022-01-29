@@ -1,11 +1,9 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09/branch/master/graph/badge.svg?token=oW7MwVhzfc)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09)
 # jpa03-Wenjin09:
 
-
 Storybook is here:
-
-- Production: https://ucsb-cs156-w22.github.io/jpa03-only-for-testing-wl-docs/storybook
-- QA: https://ucsb-cs156-w22.github.io/jpa03-only-for-testing-wl-docs-qa/storybook
+- Production: https://ucsb-cs156-w22.github.io/jpa03-Wenjin09-docs/storybook
+- QA: https://ucsb-cs156-w22.github.io/jpa03-Wenjin09-docs-qa/storybook
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
