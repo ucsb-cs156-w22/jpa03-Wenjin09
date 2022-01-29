@@ -85,7 +85,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
             mappedAuthorities.add(new SimpleGrantedAuthority("ROLE_MEMBER"));
           }
         }
-
       });
       return mappedAuthorities;
     };
