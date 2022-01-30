@@ -1,4 +1,5 @@
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09/branch/master/graph/badge.svg?token=oW7MwVhzfc)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09/branch/main/graph/badge.svg?token=0BmyndtIAa)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Wenjin09)
+
 # jpa03-Wenjin09:
 
 Storybook is here:
